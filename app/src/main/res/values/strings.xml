@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WithCompose</string>
+
+    <!-- Chapter -->
+    <string name="chapter18">chap.18 컴포즈 개요</string>
+    <string name="chapter19">chap.18 컴포저블 함수 개요</string>
 </resources>
